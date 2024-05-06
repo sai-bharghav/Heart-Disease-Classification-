@@ -8,7 +8,7 @@ Heart disease is a prevalent and serious health condition that affects millions 
 
 ## Dataset
 
-The dataset used in this project contains various attributes such as age, sex, cholesterol levels, blood pressure, and other medical indicators. These attributes are used to train and evaluate the machine learning model.
+The dataset used in this project contains various attributes such as age, sex, cholesterol levels, blood pressure, and other medical indicators. These attributes are used to train and evaluate the machine learning model. This dataset has been taken from kaggle and you can check the link from the notebook.
 
 ## Methods and Techniques
 
